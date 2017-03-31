@@ -1,0 +1,13 @@
+{
+  "name": "node-demo-app",
+  "version": "1.0.0",
+  "description": "Node demo app for EC2 Container Service",
+  "main": "index.js",
+  "author": "cdavis@corpinfo.com",
+  "license": "ISC",
+  "dependencies": {
+    "good": "^7.1.0",
+    "good-console": "^6.4.0",
+    "hapi": "^16.1.0"
+  }
+}
